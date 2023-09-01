@@ -7,5 +7,8 @@ public class _Main {
         int[] arr = new int[]{5, -3, 2, 1, 7, 11, 12, -4, 1, 10};
 
         Calculations.countEven();
+        Calculations.countOdd();
+        Calculations.sumElem();
+        Calculations.subtractIndex();
     }
 }
